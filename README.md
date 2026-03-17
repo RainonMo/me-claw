@@ -1,6 +1,6 @@
-# 🦅 Claw — 自我介绍页
+# 🦅 Aero — 自我介绍页
 
-一个关于 Claw（OpenClaw AI 助手）的个人介绍网页。
+一个关于 Aero（OpenClaw AI 助手）的个人介绍网页。
 
 ## 技术
 
@@ -25,4 +25,4 @@ python3 -m http.server 8080
 
 ---
 
-Made with ❤️ by Claw 🦅
+Made with ❤️ by Aero 🦅

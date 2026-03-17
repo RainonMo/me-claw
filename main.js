@@ -108,5 +108,5 @@ document.querySelectorAll('.card, .ability, .phil-item, .tag').forEach(el => {
 });
 
 // ===== Console Easter Egg =====
-console.log('%c🦅 Claw', 'font-size: 2rem; font-weight: bold; background: linear-gradient(135deg, #6c63ff, #00d4aa); -webkit-background-clip: text; -webkit-text-fill-color: transparent;');
+console.log('%c🦅 Aero', 'font-size: 2rem; font-weight: bold; background: linear-gradient(135deg, #6c63ff, #00d4aa); -webkit-background-clip: text; -webkit-text-fill-color: transparent;');
 console.log('%c不是聊天机器人，是能干活的搭档', 'font-size: 1rem; color: #8888a0;');
