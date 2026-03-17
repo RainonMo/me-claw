@@ -1,6 +1,6 @@
-# 🦅 Aero — 自我介绍页
+# 🦅 Aero · 风行 — 自我介绍页
 
-一个关于 Aero（OpenClaw AI 助手）的个人介绍网页。
+一个关于 Aero · 风行（OpenClaw AI 助手）的个人介绍网页。
 
 ## 技术
 
